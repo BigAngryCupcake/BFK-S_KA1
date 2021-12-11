@@ -13,3 +13,6 @@ C:\Users\giuli\Documents\GitHub\BFK-S_KA1\BFK-S_KA1\obj\Debug\BFK-S_KA1.csproj.G
 C:\Users\giuli\Documents\GitHub\BFK-S_KA1\BFK-S_KA1\obj\Debug\BFK-S_KA1.csproj.CoreCompileInputs.cache
 C:\Users\giuli\Documents\GitHub\BFK-S_KA1\BFK-S_KA1\obj\Debug\BFK-S_KA1.exe
 C:\Users\giuli\Documents\GitHub\BFK-S_KA1\BFK-S_KA1\obj\Debug\BFK-S_KA1.pdb
+C:\Users\giuli\Documents\GitHub\BFK-S_KA1\BFK-S_KA1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\giuli\Documents\GitHub\BFK-S_KA1\BFK-S_KA1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\giuli\Documents\GitHub\BFK-S_KA1\BFK-S_KA1\obj\Debug\BFK-S_KA1.csproj.CopyComplete

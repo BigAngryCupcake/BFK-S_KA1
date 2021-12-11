@@ -9,7 +9,7 @@
     <Grid>
         
         <TextBlock Height="200" Width="200" Margin="0,0,592,219" Foreground="White">Hello._.</TextBlock>
-        <Label Name="lblausgabe" Height="100" Width="750" Margin="0,310,42,9" Background="Black" Foreground="White">Hier steht dann das Ergbnis-.-</Label>
+        <Label Name="lblausgabe" Height="100" Width="750" Margin="0,310,42,9" Background="Black" Foreground="White" FontSize="16">Hier steht dann das Ergbnis-.-</Label>
         <Button Name="Btnauswerten" Height="100" Width="180" Click="Btn_Click" Background="{x:Null}" BorderBrush="#FFEEEEEE" Foreground="White" Margin="213,0,0,0">Auswerten
         </Button>
 
