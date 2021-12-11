@@ -1,0 +1,12 @@
+104564,62#August
+99574,76#Mai
+87654,65#Januar
+199345,10#Dezember#erwartet
+155856,23#November#erwartet
+45001,56#Februar
+91023,44#Oktober
+56524,32#März#ungewöhnlich
+67832,34#Juni
+55243,56#April
+95345,00#July
+84123,43#September

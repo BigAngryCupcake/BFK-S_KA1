@@ -1,0 +1,15 @@
+C:\Users\giuli\Documents\GitHub\BFK-S_KA1\BFK-S_KA1\bin\Debug\BFK-S_KA1.exe.config
+C:\Users\giuli\Documents\GitHub\BFK-S_KA1\BFK-S_KA1\bin\Debug\BFK-S_KA1.exe
+C:\Users\giuli\Documents\GitHub\BFK-S_KA1\BFK-S_KA1\bin\Debug\BFK-S_KA1.pdb
+C:\Users\giuli\Documents\GitHub\BFK-S_KA1\BFK-S_KA1\obj\Debug\BFK-S_KA1.csproj.AssemblyReference.cache
+C:\Users\giuli\Documents\GitHub\BFK-S_KA1\BFK-S_KA1\obj\Debug\MainWindow.g.cs
+C:\Users\giuli\Documents\GitHub\BFK-S_KA1\BFK-S_KA1\obj\Debug\App.g.cs
+C:\Users\giuli\Documents\GitHub\BFK-S_KA1\BFK-S_KA1\obj\Debug\BFK-S_KA1_MarkupCompile.cache
+C:\Users\giuli\Documents\GitHub\BFK-S_KA1\BFK-S_KA1\obj\Debug\BFK-S_KA1_MarkupCompile.lref
+C:\Users\giuli\Documents\GitHub\BFK-S_KA1\BFK-S_KA1\obj\Debug\MainWindow.baml
+C:\Users\giuli\Documents\GitHub\BFK-S_KA1\BFK-S_KA1\obj\Debug\BFK-S_KA1.g.resources
+C:\Users\giuli\Documents\GitHub\BFK-S_KA1\BFK-S_KA1\obj\Debug\BFK_S_KA1.Properties.Resources.resources
+C:\Users\giuli\Documents\GitHub\BFK-S_KA1\BFK-S_KA1\obj\Debug\BFK-S_KA1.csproj.GenerateResource.cache
+C:\Users\giuli\Documents\GitHub\BFK-S_KA1\BFK-S_KA1\obj\Debug\BFK-S_KA1.csproj.CoreCompileInputs.cache
+C:\Users\giuli\Documents\GitHub\BFK-S_KA1\BFK-S_KA1\obj\Debug\BFK-S_KA1.exe
+C:\Users\giuli\Documents\GitHub\BFK-S_KA1\BFK-S_KA1\obj\Debug\BFK-S_KA1.pdb
